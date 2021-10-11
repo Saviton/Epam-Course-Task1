@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1576815-446b-407b-a783-da15a401b121" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/Maven/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zKLw0Z9rvM6TviNaVXsqWgGGgV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.grsu.Main" />
+      <module name="task1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.grsu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="task1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MTCTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="task1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.grsu.operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.grsu.operator" />
+      <option name="MAIN_CLASS_NAME" value="com.grsu.operator.MTCTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MTCTest.testGetTotalNumberOfClients" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="task1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.grsu.operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.grsu.operator" />
+      <option name="MAIN_CLASS_NAME" value="com.grsu.operator.MTCTest" />
+      <option name="METHOD_NAME" value="testGetTotalNumberOfClients" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorSecondTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="task1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.grsu.operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.grsu.operator" />
+      <option name="MAIN_CLASS_NAME" value="com.grsu.operator.OperatorSecondTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="JUnit.MTCTest" />
+        <item itemvalue="JUnit.MTCTest.testGetTotalNumberOfClients" />
+        <item itemvalue="JUnit.OperatorSecondTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1576815-446b-407b-a783-da15a401b121" name="Default Changelist" comment="" />
+      <created>1633892067905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633892067905</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="276" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1633953914862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="276" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1633953914862" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1633950401901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1633950401901" />
+    <state x="588" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1633960462683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="588" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1633960462683" />
+    <state width="1877" height="318" key="GridCell.Tab.0.bottom" timestamp="1633962764827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="318" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633962764827" />
+    <state width="1877" height="318" key="GridCell.Tab.0.center" timestamp="1633962764827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="318" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633962764827" />
+    <state width="1877" height="318" key="GridCell.Tab.0.left" timestamp="1633962764827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="318" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633962764827" />
+    <state width="1877" height="318" key="GridCell.Tab.0.right" timestamp="1633962764827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="318" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633962764827" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1633906088919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1633906088919" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1633906088919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1633906088919" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1633906088919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1633906088919" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1633906088919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1633906088919" />
+  </component>
+</project>
